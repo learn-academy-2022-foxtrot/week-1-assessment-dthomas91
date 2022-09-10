@@ -104,3 +104,5 @@ console.log(sanDiegoSummerTemperatures.sort((a, b) => b - a))
 const sanDiegoWinterTemperatures = [59, 68, 62, 59, 66, 67, 66]
 console.log(sanDiegoWinterTemperatures.sort((a, b) => b - a))
 // Expected output: [68, 67, 66, 66, 62, 59, 59]
+
+

@@ -57,3 +57,5 @@ console.log(typeof dataTypes.length)
 
 // a) Your answer: it will display an error because "typeof" is not defined
 // b) Verify and explain: it displays "number". The "typeof" command is changing what the code is trying to return instead of returning the number of elements in the array plus 1. 
+
+

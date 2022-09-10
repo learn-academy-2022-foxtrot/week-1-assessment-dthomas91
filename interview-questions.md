@@ -54,3 +54,5 @@ Research and define the following terms to the best of your ability.
 4. Method: Methods are functions that belong to an object.
 
 5. Classes: Classes are a specific data and bahavior function.
+
+
